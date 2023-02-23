@@ -1,6 +1,6 @@
 ### rust world
 
-* *描述*
+* *description*
 ```
-  - 此仓库用户记录学习rust语言的相关知识
+  - this repository used to learn rust language.
 ```
